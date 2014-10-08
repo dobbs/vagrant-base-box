@@ -1,0 +1,3 @@
+.vagrant
+local-*-Vagrantfile
+local-*.box
